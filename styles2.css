@@ -1,0 +1,17 @@
+h1{
+	color: #030000;
+	font: ;
+
+}
+body{
+	background-color: #fff2c9;
+}
+ul{
+	list-style-type: none;
+	background-color: #fae3a0;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+}
